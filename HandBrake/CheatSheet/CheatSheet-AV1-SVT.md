@@ -137,7 +137,7 @@ These settings are tuned for:
 
 ## Sharpness
 
-### `sparpness=2` *(likely typo → `sharpness`)*
+### `sharpness=2`
 
 * Controls deblocking sharpness
 
