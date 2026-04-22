@@ -113,7 +113,7 @@
             "VideoHWDecode": 0,
             "VideoLevel": "auto",
             "VideoMultiPass": true,
-            "VideoOptionExtra": "film-grain-denoise=0:film-grain=8:enable-qm=1:qm-min=0:qm-max=15:enable-variance-boost=1:enable-overlays=0:enable-dg=1:irefresh-type=2:lookahead=120:keyint=10s:sparpness=2:enable-cdef=1:enable-restoration=1:enable-dlf=1:enable-tf=0",
+            "VideoOptionExtra": "film-grain-denoise=0:film-grain=8:enable-qm=1:qm-min=0:qm-max=15:enable-variance-boost=1:enable-overlays=0:enable-dg=1:irefresh-type=2:lookahead=120:keyint=10s:sharpness=2:enable-cdef=1:enable-restoration=1:enable-dlf=1:enable-tf=0",
             "VideoPasshtruHDRDynamicMetadata": "all",
             "VideoPreset": "2",
             "VideoProfile": "main",
