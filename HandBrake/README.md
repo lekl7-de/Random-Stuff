@@ -1,3 +1,3 @@
 ### /HandBrake
 
-Das Preset ist ein hochwertiges Preset für AV1-Encoding.
+Ein Preset für hochwertige 4k AV1-Encodings.
